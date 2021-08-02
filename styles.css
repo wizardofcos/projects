@@ -13,10 +13,10 @@ img {
 }
 
 .project-desc {
-    padding : 2vmin;
+    padding : 1.25vmin;
     vertical-align : middle;
     float : right;
-    width : 60.75vmin;
+    width : 62.5vmin;
 }
 
 .project-title {
@@ -35,7 +35,7 @@ img {
     text-align : center;
 }
 .project {
-    font-size : 2.25vmin; 
+    font-size : 2vmin; 
     width : 95vmin;
     height : 30vmin;
     margin : auto;
